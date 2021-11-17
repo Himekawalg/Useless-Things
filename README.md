@@ -1,5 +1,11 @@
+## 本项目尚未完成，有大量函数仍未编写。
+----
 # 模块列表
 ----
+![VScode是最好的编辑器](https://yourkawa.files.wordpress.com/2021/11/e689b9e6b3a8-2021-11-17-234122.jpg)
+*VScode是最好的编辑器!!!!*
+
+-----
 Rocket(main)
 - import(module)
 - safemodule:检查roc文件是否有效，以及项目主体完整性。此模块必选。
